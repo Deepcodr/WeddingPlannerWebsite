@@ -1,0 +1,15 @@
+
+
+
+.nav-item{
+  margin-left: 2rem;
+}
+
+.navbar-brand{
+  margin-left: 2rem;
+}
+.active{
+  color:#ffebebc4;;
+  border-bottom: solid #eed687d5;
+}
+  
